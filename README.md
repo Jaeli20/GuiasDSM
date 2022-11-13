@@ -1,0 +1,10 @@
+guia 1 95%
+guia 2 100%
+guia 3 100%
+guia 4 90%
+guia 5 100%
+guia 6 95%
+guia 7 100%
+guia 8 100%
+guia 9 100%
+guia 10 95%

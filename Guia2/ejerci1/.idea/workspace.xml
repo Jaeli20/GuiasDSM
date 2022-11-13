@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e614548a-7a65-4c20-b307-7d25b35c8862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia02/ejerci1/src/main/kotlin/ejercicio9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/src/main/kotlin/Alumno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer1/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer2/src/main/kotlin/Puntos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/src/main/kotlin/Hijos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer3/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/src/main/kotlin/Club.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../guia03/ejer4/src/main/kotlin/Socio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/src/main/kotlin/Alumno.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio1/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio2/src/main/kotlin/Puntos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/src/main/kotlin/Hijos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio3/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/src/main/kotlin/Club.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guia03/ejercicio4/src/main/kotlin/Socio.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Eq0OFIr830mO5DgPEPqFWM2y8f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User PC/OneDrive - Universidad Don Bosco/Escritorio/Javier/Javier-guias/guia03/ejer1",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e614548a-7a65-4c20-b307-7d25b35c8862" name="Changes" comment="" />
+      <created>1663307773799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663307773799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
